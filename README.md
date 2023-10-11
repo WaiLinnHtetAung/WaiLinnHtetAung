@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **wailinnhtetaung007@gmail.com**
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaiLinnHtetAung)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wai-linn-htet-aung-3449441a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wai-linn-htet-aung-3449441a0/" height="30" width="40" /></a>
