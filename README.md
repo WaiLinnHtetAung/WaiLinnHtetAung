@@ -48,8 +48,6 @@
 
 <br />
 
-<div display="flex" align-items="center">
-  <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaiLinnHtetAung&show_icons=true&theme=tokyonight)</p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wailinnhtetaung&show_icons=true&locale=en&layout=compact" alt="wailinnhtetaung" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaiLinnHtetAung&show_icons=true&theme=tokyonight)
+
 
