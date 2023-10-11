@@ -1,4 +1,4 @@
-![ken](https://github.com/WaiLinnHtetAung/WaiLinnHtetAung/blob/main/Untitled%20design.gif)
+![ken](https://github.com/WaiLinnHtetAung/WaiLinnHtetAung/blob/main/Untitled%20design%20(1).gif)
 <h1 align="center">Hi 👋, I'm Wai Linn Htet Aung</h1>
 <h3 align="center">Web Developer</h3>
 
